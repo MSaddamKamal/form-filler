@@ -11,9 +11,9 @@ class FormTest extends DuskTestCase
     /**
      * A Dusk test example.
      */
-    public function testDuskIsWorking(): void
-    {
-
+//    public function testDuskIsWorking(): void
+//    {
+//
 //        $this->browse(function (Browser $browser)  {
 //            $browser->visit('/contact')
 //                ->type('name', 'osm')
@@ -21,5 +21,5 @@ class FormTest extends DuskTestCase
 //                ->press('Submit')
 //                ->assertSee('Form submitted!');
 //        });
-    }
+//    }
 }
